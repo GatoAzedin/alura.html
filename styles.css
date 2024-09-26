@@ -1,0 +1,74 @@
+
+body {
+color: white;
+background-image: url("https://img.odcdn.com.br/wp-content/uploads/2022/08/stray_header.jpg");
+margin: 0px;
+font-family: "Kanit", sans-serif;
+margin-bottom: 100px;
+}
+
+header {
+border-bottom: solid 2px rgb(142, 13, 13);
+padding: 20px;
+font-size: 15px;
+color: rgb(242, 238, 238);
+}
+
+.chamada {
+    /* background-color: brown; */
+padding-bottom: 50px;
+padding-top: 50px;
+margin: 50px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 70px;
+    margin-left: 10px;
+}
+
+.chamada-video {
+margin-right: 100px;
+
+}
+
+h1 {
+font-size: 20px;
+
+}
+
+p {
+font-size: 20px;
+
+}
+
+.categoria-videos {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+
+}
+
+.categoria {
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+.categoria-videos img {
+opacity: 0.5;
+height: 200px
+}
+
+.categoria-videos img:hover {
+opacity: 1.0;
+border: 1px white
+
+}
+
+.categoria h2 {
+color: rgb(242, 238, 238);
+
+}
