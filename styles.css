@@ -5,6 +5,7 @@ background-image: url("https://img.odcdn.com.br/wp-content/uploads/2022/08/stray
 margin: 0px;
 font-family: "Kanit", sans-serif;
 margin-bottom: 100px;
+background-size: cover;
 }
 
 header {
